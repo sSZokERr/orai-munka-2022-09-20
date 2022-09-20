@@ -1,2 +1,5 @@
-import { list, hozzaad } from "./lista.js"
+import { hozzaad } from "./lista.js"
 
+let a = 
+
+hozzaad();
